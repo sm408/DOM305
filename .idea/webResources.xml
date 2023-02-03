@@ -6,6 +6,7 @@
         <entryData>
           <resourceRoots>
             <path value="file://$PROJECT_DIR$/csv_for_glob" />
+            <path value="file://$PROJECT_DIR$/jsonexamples" />
           </resourceRoots>
         </entryData>
       </entry>
