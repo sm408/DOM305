@@ -1,0 +1,42 @@
+Sr. No,Indicator,Source,Periodicity/ Latest available data,Andhra Pradesh,Arunachal Pradesh,Assam,Bihar,Chhattisgarh,Delhi,Goa,Gujarat,Haryana,Himachal Pradesh,Jammu and Kashmir,Jharkhand,Karnataka,Kerala,Madhya Pradesh,Maharashtra,Manipur,Meghalaya,Mizoram,Nagaland,Odisha,Punjab,Rajasthan,Sikkim,Tamil Nadu,Tripura,Uttar Pradesh,Uttarakhand,West Bengal
+1,Per Capita NSDP at 2004-05 prices (Rs.),CSO,Annual/2012-13;  as on 01.08.2014,13,17,26,29,22,2,1,6,5,10,20,23,14,8,24,4,27,18,16,11,25,12,21,3,7,15,28,9,19
+2,Growth in Per Capita NSDP at 2004-05 prices (%),CSO,Annual/2012-13;  as on 01.08.2014,13,26,12,1,27,5,25,7,15,11,22,6,18,3,2,14,29,28,17,16,10,21,23,8,24,4,20,19,9
+2.1,Growth rate in GSDP-Total,CSO,Annual/2012-13;  as on 01.08.2014,21,22,15,1,20,3,25,7,18,14,25,9,19,5,2,13,27,29,10,12,6,23,24,8,28,4,16,17,11
+2.2,Growth rate in GSDP-Agriculture,CSO,Annual/2012-13;  as on 01.08.2014,6,16,7,15,5,17,27,25,14,4,20,2,29,24,1,21,19,10,28,8,22,23,26,3,18,12,9,11,13
+2.3,Growth rate in GSDP-Industry,CSO,Annual/2012-13;  as on 01.08.2014,27,2,15,25,16,24,29,6,11,14,9,13,26,1,7,19,23,28,21,5,3,18,10,4,20,17,22,8,12
+2.4,Growth rate in GSDP-services,CSO,Annual/2012-13;  as on 01.08.2014,20,29,15,1,23,7,8,3,11,18,16,4,6,27,12,9,26,28,5,19,24,14,21,17,25,2,13,22,10
+3,Area (Sq. Km.),Census,Decadal/2011,4,14,16,12,10,29,28,7,20,17,6,15,8,21,2,3,23,22,24,25,9,19,1,27,11,26,5,18,13
+4,Population (number),Census,Decadal/2011,5,27,14,3,16,18,26,10,17,21,19,13,9,12,6,2,24,23,28,25,11,15,8,29,7,22,1,20,4
+5,Population Density (Per Sq. Km.),Census,Decadal/2011,16,29,10,2,20,1,11,15,6,24,27,9,14,4,18,12,23,22,28,25,17,8,19,26,7,13,5,21,3
+6,Decadal Growth Rate of Population (2001-2011) (%),Census,Decadal/2011,26,2,15,3,6,9,27,13,12,23,4,7,18,28,10,16,25,1,5,29,20,21,8,24,17,19,11,14,22
+7,Sex Ratio (Females/ 1000 Males),Census,Decadal/2011,3,17,14,23,5,29,9,22,28,10,27,16,11,1,18,20,4,6,8,18,7,25,21,26,2,13,24,11,15
+8,Sex Ratio (0-6 years) (Female children/ 1000 male children),Census,Decadal/2011,16,1,6,18,4,26,14,23,29,20,27,10,10,5,19,22,17,2,2,12,15,28,25,7,12,7,21,23,9
+9,Total Literacy Rate (%),Census,Decadal/2011,25,28,20,29,21,5,4,13,16,6,24,26,17,1,22,7,11,18,2,10,19,15,27,8,9,3,23,12,14
+9.1,Male (%),Census,Decadal/2011,27,28,23,29,19,5,3,10,13,6,25,24,15,1,20,7,12,26,2,14,17,18,21,9,11,4,22,8,16
+9.2,Female (%),Census,Decadal/2011,23,24,18,28,21,5,4,15,19,7,26,27,17,1,22,9,12,11,2,6,20,13,29,8,10,3,25,16,14
+10,Gender Gap in Literacy (%),Census,Decadal/2011,18,14,11,24,27,6,9,19,22,15,25,28,17,2,26,16,13,1,3,4,21,7,29,8,12,5,23,20,16
+11,Infant Mortality Rate (IMR) (per 1000 live births),SRS,Half-Yearly/September 2014,20,13,28,22,23,7,1,17,21,15,18,18,11,3,28,7,2,24,15,4,27,9,24,6,5,9,26,13,14
+12,Maternal Mortality Rate (MMR) (per 100000 live births),SRS,3 years/2010-12,4,NA,14,10,12,NA,NA,6,8,NA,NA,10,7,1,12,2,NA,NA,NA,NA,14,9,15,NA,3,NA,16,16,5
+13,Total Fertility Rate (TFR) (Birth/ woman),SRS,2012,5,NA,14,20,15,5,NA,12,12,1,9,16,9,5,17,5,NA,NA,NA,NA,11,1,17,NA,1,NA,19,NA,1
+14,Neo Natal Mortality Rate (NMR) (per 1000 live births),SRS,2011,8,NA,13,11,16,3,NA,13,8,8,15,11,6,1,20,3,NA,NA,NA,NA,18,6,17,NA,2,NA,18,NA,5
+15,Under 5 Mortality Rate (U-5MR) (per 1000 live births),SRS,2012,8,NA,20,15,14,3,NA,11,11,8,8,13,6,1,19,3,NA,NA,NA,NA,17,5,16,NA,2,NA,17,NA,6
+16,Birth Rate (%),SRS,Half-Yearly/September 2014,14,18,22,29,24,13,1,20,21,8,15,25,17,3,27,11,3,23,10,5,19,7,26,12,6,2,28,16,8
+17,Death Rate (%),SRS,Half-Yearly/September 2014,22,8,26,15,27,3,15,13,11,17,7,19,21,20,28,10,2,24,4,1,29,17,13,6,22,5,25,9,12
+18,Highway Length per sq km,MoRTH,Basic Road Statistics of India 2011-12 (Data as on 31st march 2012),26,19,11,6,25,3,1,24,12,18,29,17,21,10,27,28,2,4,5,16,20,14,23,22,9,8,13,7,15
+19,State Highways per sq km,MoRTH,Basic Road Statistics of India 2011-12 (Data as on 31st March; 2012),15,28,14,11,16,NA,6,4,10,23,27,25,2,1,18,3,12,17,19,9,26,22,21,24,5,8,20,7,13
+20,Per Capita Consumption of Electricity (kWh),MoP,For the year 2012-13,12,19,28,29,6,5,1,2,4,7,14,17,13,21,18,9,25,20,23,27,11,3,15,16,10,26,24,8,22
+21,Total Rail Route (km) per sq km of area,MoR,Annual Statistical Statement 2013-14 (Data as on 31st march; 2013),14,4,27,12,11,1,5,24,2,10,22,21,18,3,20,13,26,28,25,23,16,7,15,28,9,17,8,19,6
+22,Rural Tele Density (%),MoCIT,Annual Report (2013-14) (Data as on 31st March; 2014),12,13,25,28,26,1,4,8,7,2,20,28,11,6,26,9,13,13,13,13,22,4,10,13,3,13,23,23,21
+23,Urban Tele Density (%),MoCIT,Annual Report (2013-14) (Data as on 31st March; 2014),4,10,25,17,27,2,8,20,26,1,24,17,5,3,27,29,10,10,10,10,6,8,7,10,19,10,22,22,21
+24,Unemployment Rate (Usual Status (adjusted)) (%),NSS,NSS 68th Round; 2011-12,10,10,23,20,7,29,24,25,16,5,20,15,9,26,2,6,22,1,17,28,14,12,4,3,12,27,7,18,18
+25.1,Dropout Rate: Primary Level (%),DISE,DISE; 2013-14 data for 2012-13,21,25,13,12,9,NA,NA,7,NA,2,16,24,26,1,22,12,10,26,17,13,11,4,18,8,3,15,22,9,16
+25.2,Dropout Rate: Upper Primary Level (%),DISE,DISE; 2013-14 data for 2012-13,21,4,13,8,6,NA,11,25,NA,3,16,20,26,5,22,12,10,23,24,9,14,NA,1,18,2,17,15,7,19
+26.11,Gross Enrolment Ratio: Primary Level (%),DISE,DISE; 2013-14 data for 2013-14,4,27,23,5,14,20,16,11,6,8,1,19,10,2,21,7,29,28,26,24,18,17,12,25,13,22,3,9,15
+26.12,Net Enrolment Ratio: Primary Level (%),DISE,DISE; 2013-14 data for 2013-14,3,NA,NA,15,20,18,23,5,2,8,1,22,17,10,19,11,NA,21,NA,24,14,9,4,6,12,NA,13,6,16
+26.21,Gross Enrolment Ratio: Upper Primary Level (%),DISE,DISE; 2013-14 data for 2013-14,3,25,10,7,19,28,22,8,11,20,1,12,9,16,18,14,24,23,27,21,5,13,4,29,15,26,2,6,17
+26.22,Net Enrolment Ratio: Upper Primary Level (%),DISE,DISE; 2013-14 data for 2013-14,5,25,16,20,18,27,26,9,10,19,1,21,23,22,15,14,NA,8,24,13,7,11,4,3,17,NA,2,6,12
+27,Household availing banking services,Census,Census; 2011,12,11,4,5,8,25,28,15,20,29,22,13,16,24,7,21,1,3,14,2,6,17,19,18,10,26,23,27,8
+28,Households with latrine facility within premises,Census,Census; 2011,9,15,17,3,4,27,23,13,19,20,10,1,10,29,5,12,26,16,28,21,1,22,6,25,8,24,7,18,14
+29,Safe Drinking Water (Tap/Handpump/Tubewell) (%age),RGI,2011; Office of the Registrar General; India. Ministry of Home Affairs,20,13,8,26,17,27,16,19,25,24,10,5,18,1,11,14,3,2,6,4,9,29,12,15,23,7,28,21,21
+30.1,Forest Cover (area in sq.Km.),MoEF,Forest Survey of India; 2013,24,28,22,5,27,16,3,9,1,10,18,19,23,15,29,26,13,14,17,7,25,2,11,4,20,6,8,21,12
+30.2,Forest Cover (% of geographical area),MoEF,Forest Survey of India; 2013,10,28,18,6,19,8,23,5,2,15,7,16,12,21,14,9,25,26,29,27,17,1,3,22,11,24,4,20,13
