@@ -1,0 +1,36 @@
+import pandas as pd
+
+# Read the Excel file
+df = pd.read_excel('test_all_table.xlsx')
+
+# Find the last valid column index in the 5th row
+last_valid_column_name = df.iloc[4].last_valid_index()
+
+# Convert the column name to its integer index
+last_valid_column_index = df.columns.get_loc(last_valid_column_name)
+
+# Select the data starting at C5 and ending at the last valid column in the 5th row
+selected_data = df.iloc[4:, 3:last_valid_column_index+1]
+
+# Print the selected data
+print(selected_data)
+
+# Convert the last column to string
+df.iloc[:, -1] = df.iloc[:, -1].astype(str)
+
+# Check if there are any rows where the last column equals 'time'
+time_df = df[df.iloc[:, -1] == 'time']
+
+if not time_df.empty:
+    # Get the index of the row where the last column equals 'time'
+    time_row = time_df.index[0]
+
+    # Print the data in time_row
+    print(df.iloc[time_row, :])
+else:
+    print("No rows where the last column equals 'time'")
+
+
+
+# # Print the selected data
+# print(selected_data)
